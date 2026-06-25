@@ -41,4 +41,4 @@ This project was created to gain hands-on experience with industrial communicati
 - Database integration
 ## License
 
-MIT Licens
+MIT License
